@@ -1,0 +1,12 @@
+*{
+
+    margin: 23;
+    padding: 25;
+    box-sizing: border-box;
+    
+}
+
+table,th,td{
+
+     border: 3px solid rgb(15, 0, 82)
+}
